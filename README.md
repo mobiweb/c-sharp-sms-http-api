@@ -1,4 +1,17 @@
-sms-http-api
+:warning: :no_entry: DEPRECATED: :no_entry: :warning:
+============
+This repository is no longer supported as the SMS API is discontinued. Please consider using the SDK of the new SMS API with [mobiweb/mobiweb-php][mobiwebphp] instead.
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+Waiver:
+============
+This program is distributed AS IS and in the hope that it will be useful
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+:warning: :no_entry: DEPRECATED: :no_entry: :warning: - sms-http-api
 ============
 
 Software: MobiWeb - SMS HTTP API
@@ -35,3 +48,5 @@ Multiple programming language examples are included.
 
 A valid HTTP API account is required. Please email to sales@solutions4mobiles.com to
 get a FREE test account.
+
+[mobiwebphp]: https://github.com/mobiweb/mobiweb-php
